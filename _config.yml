@@ -34,7 +34,7 @@ footer:
   #copyright:
   location: Location
   social: Around the Web
-  #credits: Credits
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -51,7 +51,7 @@ address:
   - line: Houston, TX 77060
 
 # Credits content
-#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: ''
 
 # Build settings
 markdown: kramdown
