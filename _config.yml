@@ -1,0 +1,53 @@
+# Build settings
+permalink   : /blog/:year/:title/
+markdown    : kramdown
+highlighter : pygments
+
+paginate: 3
+paginate_path: "/blog/page/:num/"
+comments: true
+
+source: source
+destination: _site
+sass:
+  sass_dir: _scss
+  style: compressed # expanded
+
+# SEO settings
+title: Utku Yurter
+description: "A free Jekyll theme for download"
+keywords: "Jekyll, theme, free, download, SEO, blog, web"
+url: http://utkuyurter.me
+baseurl: ""
+# baseurl: ""
+
+# google_analytics: UA-52446115-1
+repo: https://github.com/utkuyurter/utkuyurter.github.io
+disqus_shortname: "utkuyurter"
+disqus_site_shortname: "utkuyurter"
+
+# Author settings
+author:
+  name      : Utku Yurter
+  job       : Software Engineer
+  bio       : "Pythonista, Artificial Intelligence, A good code is like a sexy woman."
+  thumb     : /images/utku.jpg
+  email     : utkuyurter@gmail.com
+  url       : http://utkuyurter.me
+  github    : https://github.com/utkuyurter
+  twitter   :
+  facebook  : https://www.facebook.com/utku.yurter
+  linkedin  : https://www.linkedin.com/in/utku-yurter-b877a3105?trk=nav_responsive_tab_profile_pic
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  # - slug: resume
+  #   title: Resume
+  # - slug: skills
+  #   title: Skills
+  - slug: blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
