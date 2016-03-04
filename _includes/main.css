@@ -680,11 +680,11 @@ footer p a {
   color: #222;
   text-decoration: none;
 }
-.disqus {
+/*.disqus {
   margin: 0 auto;
   max-width: 100%;
   padding: 40px 0;
-}
+}*/
 .author {
   padding: 3rem 0;
   border-bottom: 1px solid #ededed;
