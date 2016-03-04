@@ -4,7 +4,7 @@ picture: 'assets/images/profile.jpg'
 
 url: http://utkuyurter.github.io/
 # your url: http://USERNAME.github.io/
-permalink: /:MyBlog/
+permalink: /Blog/
 
 analytics: 'UA-MYANALYTICS'
 #disqus: mydisqus
