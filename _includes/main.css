@@ -406,7 +406,7 @@ pre {
 }
 .home .home__header img,
 .blog .home__header img {
-  width: 125px;
+  width: 250px;
   margin-bottom: 25px;
   border-radius: 100%;
 }
