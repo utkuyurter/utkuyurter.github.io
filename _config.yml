@@ -1,21 +1,21 @@
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Utku Yurter
+bio: 'Artificial Intelligence - Cyber Security'
 picture: 'assets/images/profile.jpg'
 
-url: http://sergiokopplin.github.io/indigo
+url: http://utkuyurter.github.io/
 # your url: http://USERNAME.github.io/
-permalink: /:title/
+permalink: /:MyBlog/
 
-analytics: 'UA-MYANALYTICS'
-disqus: mydisqus
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-email: myemail@gmail.com
+#analytics: 'UA-MYANALYTICS'
+#disqus: mydisqus
+facebook: https://www.facebook.com/utku.yurter
+#twitter: mytwitter
+#instagram: myinstagram
+linkedin: https://www.linkedin.com/in/utku-yurter-b877a3105?trk=nav_responsive_tab_profile_pic
+#youtube: myyoutube
+#spotify: myspotify
+github: https://github.com/utkuyurter
+email: utkuyurter@gmail.com
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
 
